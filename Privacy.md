@@ -1,37 +1,31 @@
-# Hymn Keeper - Terms of Use
+# Hymn Keeper - Privacy Policy
 
 **Effective Date: April 26, 2025**
 
-By downloading, installing, or using Hymn Keeper ("App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, please do not use the App.
+## Our Privacy Commitment
 
-## License
+Your privacy is important to us. This simplified Privacy Policy explains how Hymn Keeper ("App") handles your information.
 
-We grant you a limited, non-exclusive, non-transferable license to use the App for your personal, non-commercial use.
+## Information Collection and Storage
 
-## Restrictions
+We do not collect or store any private personal information within the App or on any of our servers. All personal information is kept on your own personal device and, if synced with iCloud, on all your personal iOS devices.
 
-You may not:
-- Use the App for illegal purposes
-- Modify, decompile, or reverse engineer the App
-- Distribute or share the App with others
-- Use the App to infringe on others' rights
+## Local Storage
 
-## User Content
+The App may store information locally on your device to provide functionality. This information remains on your device and is not transmitted to us.
 
-You retain all rights to any content you create in the App. We may use this content solely to provide and improve the App.
+## Third-Party Services
 
-## Disclaimer
+If you choose to use features that interact with third-party services (such as sharing), those services may collect information according to their own privacy policies, which are separate from ours.
 
-THE APP IS PROVIDED "AS IS" WITHOUT ANY WARRANTY. WE ARE NOT LIABLE FOR ANY DAMAGES ARISING FROM YOUR USE OF THE APP.
+## Changes to This Policy
 
-## Changes to Terms
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the App.
 
-We may update these Terms at any time. Continued use of the App after changes constitutes acceptance of the new Terms.
+## Contact Us
 
-## Contact
-
-To contact us, use the app to send us an email.
+To contact us about privacy concerns, use the app to send us an email.
 
 ---
 
-By using Hymn Keeper, you acknowledge that you have read and agreed to these Terms.
+By using Hymn Keeper, you consent to this Privacy Policy.
